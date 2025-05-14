@@ -1,5 +1,7 @@
-# Solution: 'Sales Configuration'
-# App: Testing Plugin
+# Introduction
+
+The solution that implemented the early-boud classes: Sales Configuration.
+The app that implemented the early-boud classes: Testing Plugin
 
 The `.xml` file is used for settings/backup, used for generation. I also have the original settings `.xml` file for backup.
 
