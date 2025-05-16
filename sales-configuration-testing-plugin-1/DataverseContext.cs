@@ -29,24 +29,13 @@ namespace SalesConfigurationPlugins
 		}
 		
 		/// <summary>
-		/// Gets a binding to the set of all <see cref="SalesConfigurationPlugins.CRfF8_ScAccount"/> entities.
+		/// Gets a binding to the set of all <see cref="SalesConfigurationPlugins.Opportunity"/> entities.
 		/// </summary>
-		public System.Linq.IQueryable<SalesConfigurationPlugins.CRfF8_ScAccount> CRfF8_ScAccountSet
+		public System.Linq.IQueryable<SalesConfigurationPlugins.Opportunity> OpportunitySet
 		{
 			get
 			{
-				return this.CreateQuery<SalesConfigurationPlugins.CRfF8_ScAccount>();
-			}
-		}
-		
-		/// <summary>
-		/// Gets a binding to the set of all <see cref="SalesConfigurationPlugins.CRfF8_ScPerson"/> entities.
-		/// </summary>
-		public System.Linq.IQueryable<SalesConfigurationPlugins.CRfF8_ScPerson> CRfF8_ScPersonSet
-		{
-			get
-			{
-				return this.CreateQuery<SalesConfigurationPlugins.CRfF8_ScPerson>();
+				return this.CreateQuery<SalesConfigurationPlugins.Opportunity>();
 			}
 		}
 	}
