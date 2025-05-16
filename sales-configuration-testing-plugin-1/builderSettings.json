@@ -90,7 +90,8 @@
   "emitFieldsClasses": true,
   "emitVirtualAttributes": true,
   "entityNamesFilter": [
-    "crff8_scaccount"
+    "crff8_scaccount",
+    "crff8_scperson"
   ],
   "entityTypesFolder": "Entities",
   "generateActions": true,

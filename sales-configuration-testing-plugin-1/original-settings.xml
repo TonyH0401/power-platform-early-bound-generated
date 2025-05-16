@@ -28,7 +28,8 @@
     <CreateOneFilePerOptionSet>true</CreateOneFilePerOptionSet>
     <DeleteFilesFromOutputFolders>false</DeleteFilesFromOutputFolders>
     <EntitiesToSkip />
-    <EntitiesWhitelist>crff8_scaccount</EntitiesWhitelist>
+    <EntitiesWhitelist>crff8_scaccount|
+crff8_scperson</EntitiesWhitelist>
     <EntityAttributeSpecifiedNames />
     <EntityClassNameOverrides />
     <EntityPrefixesToSkip />
